@@ -42,8 +42,8 @@ Desenvolver uma plataforma web capaz de:
 
 
 ## 📝 Protótipo de baixa fidelidade
-- **Tela de cadastro do usuário** (nome, E-mail, seleção de temas).
-- **Tela administrativa simples** (listar usuários, visualizar notícias coletadas).
+- **Tela de cadastro do usuário** (nome, E-mail, WhatsApp, seleção de temas).
+- **Tela administrativa simples**.
 - **Exemplo de mensagem no WhatsApp** (resumo + botão “Ler mais”).
 
 ## As imagens dos protótipos estarão na pasta `/prototipo`.
