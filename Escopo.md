@@ -1,7 +1,7 @@
 # Estrutura do Escopo de Projeto – TCC
 
 ## 1. Identificação do Projeto
-- **Nome do Projeto:** Plataforma Web de Curadoria de Notícias Institucionais com Envio via WhatsApp  
+- **Nome do Projeto:** Plataforma Web de Curadoria de Notícias Institucionais com Envio via WhatsApp 
 - **Autor:** Matheus Gades Costa  
 - **Orientador:** Clarissa Castellã Xavier  
 - **Data:**  
